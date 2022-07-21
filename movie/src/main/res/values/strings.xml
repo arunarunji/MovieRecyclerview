@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="description1">About the Movie</string>
+    <string name="title1">Title</string>
+    <string name="book_ticket">Book Ticket</string>
+    <string name="rate_now">Rate now</string>
+    <string name="add_your_rating_review_your_ratings_matter">Add your rating @ review your ratings matter</string>
+</resources>

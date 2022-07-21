@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/app/src/main/res/layout/activity_main2.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/calc/src/main/res/layout-land/activity_main.xml" value="0.12239583333333333" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/calc/src/main/res/layout-land/activity_main2.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/calc/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/calc/src/main/res/layout/activity_main2.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/captureimage/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1605" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/captureimage/src/main/res/drawable/ic_launcher_background.xml" value="0.1605" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/captureimage/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/captureimage/src/main/res/layout/alertdialog.xml" value="0.1640625" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/cardview/src/main/res/layout/activity_main.xml" value="0.3671875" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/cardview/src/main/res/layout/card_layout.xml" value="0.3671875" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/customview/src/main/res/layout/activity_custom_listview.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/customview/src/main/res/layout/activity_main.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/customview/src/main/res/layout/customview.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/layout/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/layout/src/main/res/layout/layout.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/layoutsample/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/layoutsample/src/main/res/drawable-v24/ic_more_vert.xml" value="0.368" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/layoutsample/src/main/res/drawable-v24/ic_play_circle.xml" value="0.1" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/layoutsample/src/main/res/drawable-v24/ic_shuffle.xml" value="0.3545" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/layoutsample/src/main/res/drawable-v24/primarygradient.xml" value="0.368" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/layoutsample/src/main/res/drawable/ic_android_black_24dp.xml" value="0.368" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/layoutsample/src/main/res/layout/activity_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/layoutsample/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/layoutsample/src/main/res/layout/sample1.xml" value="0.22" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/listview/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/listview/src/main/res/layout/cardlayout.xml" value="0.1796875" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/listview/src/main/res/layout/customlayout.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/listview/src/main/res/layout/customlayoutperson.xml" value="0.1" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/movie/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.1" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/movie/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.184" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/movie/src/main/res/drawable/primarygradient.xml" value="0.1525" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/movie/src/main/res/layout-land/activity_main2.xml" value="0.10416666666666667" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/movie/src/main/res/layout/activity_main.xml" value="0.18565400843881857" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/movie/src/main/res/layout/activity_main2.xml" value="0.1796875" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/movie/src/main/res/layout/row.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/arun-pt5114/AndroidStudioProjects/AndroidBasics/movie/src/main/res/menu/menu.xml" value="0.14666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
